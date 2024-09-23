@@ -1,0 +1,18 @@
+* {
+  transition: 1s ease;
+}
+
+body {
+  background-color: black;
+
+  margin: auto;
+
+  overflow: hidden;
+}
+
+.blob {
+  box-shadow: 0px 0px 100px 30px #0059ff;
+
+  position: absolute;
+  top: 0;
+}
